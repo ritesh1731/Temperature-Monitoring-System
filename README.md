@@ -1,5 +1,4 @@
-# Echo-IIT2019226
-**Project No :** 28
+# Temperature Monitoring System
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
